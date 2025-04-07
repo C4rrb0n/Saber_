@@ -1,4 +1,4 @@
-# Saber_ Lighting System (WIP)  
+# Saber Lighting System (WIP)  
 An open-source lighting control platform inspired by **Whelen Cencom Core**, designed for construction and roadside work vehicles.
 
 ---
@@ -60,6 +60,8 @@ Support for:
 - **Slide switches**
 - **Indicator LEDs**
 - **Backlighting effects**
+- **Vehicle signal inputs** (e.g. turn signals, hazards, brakes)  
+  These may be supported via digital input lines or by listening to the vehicle's **CANBus** network, depending on vehicle integration.
 
 All control mappings are configurable via the editor.
 
