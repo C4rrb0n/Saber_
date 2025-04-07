@@ -1,4 +1,4 @@
-# Saber Lighting System (WIP)  
+# Saber_ Lighting System (WIP)  
 An open-source lighting control platform inspired by **Whelen Cencom Core**, designed for construction and roadside work vehicles.
 
 ---
